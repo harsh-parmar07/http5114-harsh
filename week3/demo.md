@@ -58,3 +58,8 @@ You can add multi-line code by using three tics and the name of the coding langu
 | HTML       | 5      |
 | JavaScript | 7      |
 | CSS        | 9      |
+
+# Github Flavour
+
+> [!Note]
+>This is a note!
