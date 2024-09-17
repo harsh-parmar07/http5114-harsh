@@ -30,3 +30,18 @@ This is a link to [my portfolio](https://github.com/harsh-parmar07)
 ## Images
 
 ![BrickMMO Planet](building.jpg)
+
+## Code
+
+We can put inline code by using a tic.
+
+To add an mage use an `<img>` tag.
+
+You can add multi-line code by using three tics and the name of the coding language:
+
+```
+    function test(){
+        console.log("test);
+}
+```
+    
